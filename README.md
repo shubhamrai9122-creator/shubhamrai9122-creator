@@ -108,7 +108,6 @@
 
 </div>
 
-> ⚠️ The snake image above only appears **after** you set up the GitHub Action described below — it's generated automatically from your contribution graph, not a static image.
 
 ---
 
