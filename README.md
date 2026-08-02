@@ -76,27 +76,27 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shubhamrai9122-creator&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamrai9122-creator&theme=tokyonight&hide_border=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamrai9122-creator&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamrai9122-creator&theme=tokyonight&hide_border=true" width="65%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamrai9122-creator&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
+**My GitHub Stats**
+- ⭐ Public Repositories: 11
+- 💻 Primary Languages: CSS, HTML, C++, Jupyter Notebook
+- 📅 Active since: Dec 2024
+
 ---
 
 ## 📚 Featured Repositories
 
-<div align="center">
-
-<a href="https://github.com/shubhamrai9122-creator/image-search-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamrai9122-creator&repo=image-search-app&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/shubhamrai9122-creator/webexam"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamrai9122-creator&repo=webexam&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/shubhamrai9122-creator/DATASCIENCE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamrai9122-creator&repo=DATASCIENCE&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/shubhamrai9122-creator/dsa.cpp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamrai9122-creator&repo=dsa.cpp&theme=tokyonight&hide_border=true" /></a>
-
-</div>
+| Repository | Description |
+|---|---|
+| 🔗 [**image-search-app**](https://github.com/shubhamrai9122-creator/image-search-app) | Image search web app |
+| 🔗 [**webexam**](https://github.com/shubhamrai9122-creator/webexam) | Web-based exam project |
+| 🔗 [**DATASCIENCE**](https://github.com/shubhamrai9122-creator/DATASCIENCE) | Data Science notebooks & experiments |
+| 🔗 [**dsa.cpp**](https://github.com/shubhamrai9122-creator/dsa.cpp) | Data Structures & Algorithms in C++ |
 
 ---
 
@@ -107,7 +107,6 @@
 <img src="https://raw.githubusercontent.com/shubhamrai9122-creator/shubhamrai9122-creator/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%"/>
 
 </div>
-
 
 ---
 
