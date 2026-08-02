@@ -100,6 +100,18 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/shubhamrai9122-creator/shubhamrai9122-creator/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%"/>
+
+</div>
+
+> ⚠️ The snake image above only appears **after** you set up the GitHub Action described below — it's generated automatically from your contribution graph, not a static image.
+
+---
+
 <div align="center">
 
 ### 📫 Let's Connect
